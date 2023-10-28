@@ -13,7 +13,7 @@ const questions = [
         answers: [
             { text: "Assassination of Sheikh Mujibur Rahman", correct: false},
             { text: "Bangladesh's declaration of independence", correct: false},
-            { text: "PSigning of the Simla Agreements", correct: false},
+            { text: "Signing of the Simla Agreements", correct: false},
             { text: "Pakistan's military operation in East Pakistan", correct: true},
         ]
     },
